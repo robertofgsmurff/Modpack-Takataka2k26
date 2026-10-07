@@ -694,11 +694,6 @@ hash = "8d941262258113b2f105435734cd96721dd8d8686c56bdc308465d145b4e6d70"
 metafile = true
 
 [[files]]
-file = "mods/insanelib.pw.toml"
-hash = "f2c904da5a2fe95c08bfa6c4af96eafaaf2f3f283f9736de309529e1d58b6156"
-metafile = true
-
-[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "8bccdba76bca175ecd301826931591663cd7b1edba1c216fef4d45221784c131"
 metafile = true
