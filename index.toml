@@ -744,11 +744,6 @@ hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-hash = "61d777de1b0ee4650940eb4f72f3847a219a494204c30522c2a02fc6785f38da"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "26ec78413f9137bd84027fe34662ee5dfe167f8e2009d2d72b9a3104ae675d78"
 metafile = true
@@ -1232,11 +1227,6 @@ hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "33232510f247888ae35f261b26345f0f3c5f0daee0adbc0311aac2d5bb324a1d"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
 metafile = true
@@ -1279,11 +1269,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
-metafile = true
-
-[[files]]
-file = "mods/security-craft.pw.toml"
-hash = "07018277086bf1bdc3f795777f0c15e50a88a0f5739863fb116679f29ce6db8c"
 metafile = true
 
 [[files]]
