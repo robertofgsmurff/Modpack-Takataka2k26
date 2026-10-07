@@ -1,0 +1,13 @@
+name = "The Anur Trio : AlienEvo AddonPack"
+filename = "anur-v1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e1919eae8760936cce87e2f155b1bf38fcf8a63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7600881
+project-id = 1317805

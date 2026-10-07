@@ -1,0 +1,13 @@
+name = "Epic Power Bracelets"
+filename = "epicpowerbracelets-forge-1.20.X-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "657f94b596c83ce4cfb13be40cba0a646916351a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5509919
+project-id = 978148

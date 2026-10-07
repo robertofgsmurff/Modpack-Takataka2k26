@@ -1,0 +1,13 @@
+name = "Exclusive Weapons, Armor and Tools"
+filename = "EW-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0c0154fdd8e92fa31ee3df3116b21f9ba351e0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6658538
+project-id = 882718

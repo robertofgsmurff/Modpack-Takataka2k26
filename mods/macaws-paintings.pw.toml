@@ -1,13 +1,13 @@
 name = "Macaw's Paintings"
-filename = "mcw-paintings-1.1.0-mc26.3fabric.jar"
+filename = "mcw-paintings-1.1.0-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/okE6QVAY/versions/pzqkBlHr/mcw-paintings-1.1.0-mc26.3fabric.jar"
-hash-format = "sha512"
-hash = "1bd3ff00e3308f2691a2bc4ffa01d35aeefcd9a95ab9c246d6333930d93a961602d72a9d65831729c0c8427f61325918a6a398eaaaa1a15b108642eab3084b74"
+hash-format = "sha1"
+hash = "06249429fe69cedfad63253aaee4da29ebe9beda"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "okE6QVAY"
-version = "pzqkBlHr"
+[update.curseforge]
+file-id = 7845102
+project-id = 438116

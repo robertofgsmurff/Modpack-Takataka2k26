@@ -1,0 +1,13 @@
+name = "[SBM] Bone Torch"
+filename = "SBM-BoneTorch-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35a624915f828bb97f6cbc16ca6360c45749fd57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5313149
+project-id = 238695

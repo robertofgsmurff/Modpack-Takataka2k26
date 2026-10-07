@@ -1,0 +1,13 @@
+name = "To'kustar Palladium/Alien Evo Addon"
+filename = "stretchakln-tokustar.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d465de2d370acb1aa7ca7fd7e5c002faae768d98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7687362
+project-id = 1359655

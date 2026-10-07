@@ -1,13 +1,13 @@
-name = "Aiban Modpack"
+name = "TAKATAKA 2K26"
 author = "Firo"
-version = "1.0.0"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8145c915e19128f1602e737d7d36c69d18ae008ec256b289c23fdf5c7dffa2e9"
+hash = "19d75febdd7f201ec9fb4874a7a5ce1595f147e22bb6d60c1693bda74a33673e"
 
 [versions]
-fabric = "0.19.5"
-minecraft = "26.3"
+forge = "47.3.0"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "TrimsEffects - 2.1 NOW AVAILABLE!"
+filename = "trimeffects-forge-mc1.20-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a457e92f1b70d86708542ca5fc07fcef544325ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6165308
+project-id = 870275

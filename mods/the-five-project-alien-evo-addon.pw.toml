@@ -1,0 +1,13 @@
+name = "The Five Project (Alien Evo Addon)"
+filename = "the_five_project_forge_1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6456901f15e08f7fb2c26bc2b00c210eec0e0c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7088233
+project-id = 1354875

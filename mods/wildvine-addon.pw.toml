@@ -1,0 +1,13 @@
+name = "Wildvine (Alien Evolution Addon)"
+filename = "Wildvine(1.0.3).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6085a886e76dbc617b6fa43138757f6fcfb4949a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7691852
+project-id = 1410855

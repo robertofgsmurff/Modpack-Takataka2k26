@@ -1,0 +1,13 @@
+name = "SuperOreBlock"
+filename = "SOB-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e89a2a824f3aa5876ef21c3f9dce857acbc534e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6658481
+project-id = 861181

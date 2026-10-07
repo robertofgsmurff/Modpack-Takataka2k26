@@ -1,13 +1,13 @@
-name = "TerraBlender"
-filename = "TerraBlender-fabric-26.3-26.3.0.0.9.jar"
+name = "TerraBlender (Forge)"
+filename = "TerraBlender-forge-1.20.1-3.0.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/xirJYe1V/TerraBlender-fabric-26.3-26.3.0.0.9.jar"
-hash-format = "sha512"
-hash = "183f809fe992aaaaf4d84c594730b95b392338caf17b690debbb14434b23b46f5923cfcc5aecb81368ea06a299503a3738dcf942b7f179abd000f1312cf2cbdb"
+hash-format = "sha1"
+hash = "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kkmrDlKT"
-version = "xirJYe1V"
+[update.curseforge]
+file-id = 6290448
+project-id = 563928

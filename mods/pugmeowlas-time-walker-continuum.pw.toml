@@ -1,0 +1,13 @@
+name = "Pugmeowla's Time Walker Continuum"
+filename = "timewalker_0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8b3149fbe005597baa7b69803c390f362941623"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6979253
+project-id = 1331548

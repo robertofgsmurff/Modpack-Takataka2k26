@@ -1,0 +1,13 @@
+name = "AeroFlame"
+filename = "AeroFlame.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17d8f4e1d13b393e68827193a3a1676a1724a575"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8376356
+project-id = 1400815

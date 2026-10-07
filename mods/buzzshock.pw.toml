@@ -1,0 +1,13 @@
+name = "Noseedenian: Buzzshock AlienEvo AddonPack"
+filename = "nosedeenian_buzzshock_2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66c139ba4c528b00880b1080f50564b92a613e16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7207841
+project-id = 1358029

@@ -1,0 +1,13 @@
+name = "Eat an Omelette"
+filename = "eat_an_omelette-merged-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7638ff6523e17a5d49f0377e67db2db8d26fbada"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5875966
+project-id = 859307

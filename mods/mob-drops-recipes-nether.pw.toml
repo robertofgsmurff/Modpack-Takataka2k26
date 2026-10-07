@@ -1,0 +1,13 @@
+name = "Mob Drops Recipes [Nether]"
+filename = "mob_drops_recipes_nether-merged-1.20.1-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d478b913e992ba44a3849d4501d774e99e74537"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6084953
+project-id = 968546
