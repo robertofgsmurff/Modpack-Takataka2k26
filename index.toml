@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/AeroFlame.jar"
+hash = "095919d2248af600efc04074d0434a7a69ce3ef18a4ff5f5d760261844416f0c"
+
+[[files]]
+file = "mods/Wildvine(1.0.3).jar"
+hash = "e5c805fac7a2ed314423248b4c3614dbe7e5f90d433a6410af5efe662278bf50"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "16b7ba68b0de49eea2511bdb20d85ef694644e5e58d27865250d89c4c11e51f3"
 metafile = true
@@ -1101,11 +1109,6 @@ hash = "36978dd026fcf9884e8b76633b126dfede9603bf1700d23faa7847ccdbbe5005"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "cabab7b33fa3d84db5ade3586da1ac59923569d3c1b4e863a5575e444fef2f49"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "febcd65133cb383b7592781518fb97bb9ef8c0dc1fbdcec67058a6a87fc2dd55"
 metafile = true
@@ -1129,6 +1132,14 @@ metafile = true
 file = "mods/omni-extras.pw.toml"
 hash = "fcf7e4f731036aee1387a106a162912cecfd58d0a2f688bca2cee73117d4fe09"
 metafile = true
+
+[[files]]
+file = "mods/omni_evo_1.0.3.jar"
+hash = "2f4d388b7edf844f624107257b72080e0896311d7db8e673367eef5604e8f753"
+
+[[files]]
+file = "mods/omni_evo_aliens-1.0.1.jar"
+hash = "1dd9759c2b281aa02352abb0e391203c3cf7c622a58de6da85b94c1ffb4eb1ad"
 
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
@@ -1188,11 +1199,6 @@ metafile = true
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "2fe56781012a8d4abf802843188737865e657b2de4428a7e0052d34ba5207b45"
-metafile = true
-
-[[files]]
-file = "mods/pugmeowlas-time-walker-continuum.pw.toml"
-hash = "addcd010311cfe459ba23d4b87c8646580a9f846e3a6580e17b89485619fba25"
 metafile = true
 
 [[files]]
@@ -1644,6 +1650,10 @@ metafile = true
 file = "mods/yelling-alien-evo.pw.toml"
 hash = "436fbc6ce9a10290cf283196c840d7c2c3e8e0448f6d785494139dec561cfca9"
 metafile = true
+
+[[files]]
+file = "mods/yelling_alien-0.8.0.jar"
+hash = "e9a1927152d6be1f3ee139c723b4c97667cc4c0e91cb0db89b2db0b7af042f00"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
