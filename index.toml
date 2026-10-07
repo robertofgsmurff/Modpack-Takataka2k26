@@ -5,8 +5,16 @@ file = "mods/AeroFlame.jar"
 hash = "095919d2248af600efc04074d0434a7a69ce3ef18a4ff5f5d760261844416f0c"
 
 [[files]]
+file = "mods/InsaneLib-1.13.4-mc1.20.1.jar"
+hash = "db9dec7fc0922b295862427e68f4458b31dc447fdd9a3564f6d1eea3b0d30364"
+
+[[files]]
 file = "mods/Wildvine(1.0.3).jar"
 hash = "e5c805fac7a2ed314423248b4c3614dbe7e5f90d433a6410af5efe662278bf50"
+
+[[files]]
+file = "mods/[1.20.1] SecurityCraft v1.9.9.jar"
+hash = "bc9a4bbe13802af1dbc5d1bb2600aa49a2ec60a06cae8aa9d1f51cfa4db787a0"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -1220,6 +1228,10 @@ metafile = true
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
+
+[[files]]
+file = "mods/right-click-harvest-3.2.3+1.20.1-forge.jar"
+hash = "c28cd7568f4a80ccb535f79a700a6c09a632b7574f1284f15dab4b339f7ae846"
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
