@@ -127,11 +127,6 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
-file = "mods/area-effect-clouds-3d.pw.toml"
-hash = "3d0ca323a91b2467f02032ca1d0b9f6337373c2aa4522d1e0f8702803cc121c6"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "9224b29b7fc388a0a030f8a6e87b26b24ec73dbc853bcdd531a144ed8e59ccea"
 metafile = true
