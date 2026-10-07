@@ -604,11 +604,6 @@ hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
-file = "mods/fenomena-structures.pw.toml"
-hash = "62e95e915fcde0dffcdb3876ea0a447ffbd4c63bc7d7b902e93b5995fd2ec1fa"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
