@@ -74,11 +74,6 @@ hash = "f131905d113ba9dd127abf3c9f897aaf4ecf59657c415752533893d44cb584df"
 metafile = true
 
 [[files]]
-file = "mods/aeroflame.pw.toml"
-hash = "7bc3a8a33d4b7c3e2c5a5a212d42a9eeeaaa5f45659580ca61f54f595d977972"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "855a8aed204e15e2c3f26d8cd4c567547620fb1cbe60a3a0b2803fae11a6611d"
 metafile = true
@@ -1119,16 +1114,6 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
-file = "mods/omni-evo-aliens.pw.toml"
-hash = "79be0d31cb9582ae28a77b587fd9d3c51444f77e5614733a426eb0fab9fbb5cb"
-metafile = true
-
-[[files]]
-file = "mods/omni-evo.pw.toml"
-hash = "6f292e250d6e1516835a3e539c5470dea3397c6019277b04fe080f4d14af5aa2"
-metafile = true
-
-[[files]]
 file = "mods/omni-extras.pw.toml"
 hash = "fcf7e4f731036aee1387a106a162912cecfd58d0a2f688bca2cee73117d4fe09"
 metafile = true
@@ -1617,11 +1602,6 @@ hash = "8d0fae98451ad13f3c36828403cba329462eed744fe70cfad84e9b74f42e67db"
 metafile = true
 
 [[files]]
-file = "mods/wildvine-addon.pw.toml"
-hash = "9957d1d86dc0dcfcafb9bab26e761f0410c045efc3ad63dd15398bd248ec618a"
-metafile = true
-
-[[files]]
 file = "mods/wooden-hopper.pw.toml"
 hash = "c44caf3cec289a6be957124bc970211fae634e7627421b778ceb98c104d266c7"
 metafile = true
@@ -1644,11 +1624,6 @@ metafile = true
 [[files]]
 file = "mods/ydms-weapon-master.pw.toml"
 hash = "c4968d2539190a1a2e2623814db027d8229fd75800f58f76b51a39f25e7ea3b2"
-metafile = true
-
-[[files]]
-file = "mods/yelling-alien-evo.pw.toml"
-hash = "436fbc6ce9a10290cf283196c840d7c2c3e8e0448f6d785494139dec561cfca9"
 metafile = true
 
 [[files]]
