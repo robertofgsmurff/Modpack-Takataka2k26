@@ -181,10 +181,6 @@ file = "mods/JustARaftMod-1.20.1-3.0.4.jar"
 hash = "d1198e90b5d26009db2da43d7d9dc582b4624be2518139e9f7200545ea48f9df"
 
 [[files]]
-file = "mods/JustEnoughGuns-0.4.0-1.20.1.jar"
-hash = "3d1c1a840478b0572ba1f93a76dd1fb46e6ba29285382002720aaa7aec033f30"
-
-[[files]]
 file = "mods/Kambrik-6.1.1+1.20.1-forge.jar"
 hash = "37d0c2b03a1f3aacb30498d67c35adaca99dc9ecd30f66f383016f4cbc85be8e"
 
@@ -641,10 +637,6 @@ file = "mods/enchantwithmob-1.20.1-11.7.3.jar"
 hash = "1c3df120efc0d078a6876ee08e208e3d040bea51516e5e5b417faee1bae7f9fa"
 
 [[files]]
-file = "mods/enderpack-merged-1.20.1-2.0.1.jar"
-hash = "432a8c8c77ef7831f339b500d4de17117de4f631a091e66f982eb938cbe1e181"
-
-[[files]]
 file = "mods/epic-power-bracelets-1.20.1-1.0.0.jar"
 hash = "11fa988d833ed01a83c895edde44740c78095c018a56aaccbd61bcb62b41a3b3"
 
@@ -705,10 +697,6 @@ file = "mods/gravestone-forge-1.20.1-1.0.15.jar"
 hash = "05c07235f41afa4fb7d8edd09b2d175b83d41aa7ca960d3bfe8dc16c040a6ba7"
 
 [[files]]
-file = "mods/guardvillagers-1.20.1-1.6.5.jar"
-hash = "5eb5b9f51a277020d3a2d15a95c4a3f49060e7dae8ffb6dab546a8b849023029"
-
-[[files]]
 file = "mods/handcrafted-forge-1.20.1-3.0.6.jar"
 hash = "1da3c7c524bfb656bb370757af55f08f1678e8e1cb934e1c4c04aa773ed64a79"
 
@@ -731,10 +719,6 @@ hash = "374b72d5731662b05f18c7f1bcad53d19e9c15cff0b3fbff5bfb5dd038da687c"
 [[files]]
 file = "mods/inventorytotem-1.20.1-3.2.jar"
 hash = "5eb2482e78ad09cf859896fef8425b71fea68f9261822b01c70fed9dfcd2a677"
-
-[[files]]
-file = "mods/iron_ender_chests-1.20-1.0.3.jar"
-hash = "1518e2365e6fa6a81d8030d39eee98cacecc7853853a229132f6f9f84943bdb8"
 
 [[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"
@@ -1113,10 +1097,6 @@ file = "mods/stackrefill-1.20.1-4.2.jar"
 hash = "5d5f7e8b7bc528787a468855209051e8fdc2489481f5ce39adce6190de07630b"
 
 [[files]]
-file = "mods/starterkit-1.20.1-6.7.jar"
-hash = "00eb9bcd7654757c600047b7e806e8e870be6c1048664a0ff67ac732ae9525fb"
-
-[[files]]
 file = "mods/storagedrawers-1.20.1-12.0.3.jar"
 hash = "1c29c6d505e1433c2a7144aab17acd3b2918d6c0f8cd01fc4c01962c35dc5c2c"
 
@@ -1147,10 +1127,6 @@ hash = "37713ee704a0779249b24955344f318b42efae9f607cdba2f003b4940b162b23"
 [[files]]
 file = "mods/the-conjurer-1.20.1-1.1.6.jar"
 hash = "13116af840e2c2a734d36cbd475bdbaf6ee3a26ff7653ea6641667a8ff937480"
-
-[[files]]
-file = "mods/timeondisplay-merged-1.20.1-2.0.0.jar"
-hash = "ee096179e459134244f39ef148044b7ac61f8b6145631a9bd3fead17c92ef857"
 
 [[files]]
 file = "mods/torchmaster-20.1.6.jar"
@@ -1211,10 +1187,6 @@ hash = "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a"
 [[files]]
 file = "mods/webdisplays-2.0.2-1.20.1.jar"
 hash = "017626c9c08bc6fa620c33643bd6ce9a1368f741b3af36d62fc299d5e38535af"
-
-[[files]]
-file = "mods/woodenhopper-1.20.1-1.6.0.1.jar"
-hash = "02a4c16a199833b7ef8379e176252b6d0f67536471754f829afbe9b9172f0736"
 
 [[files]]
 file = "mods/worldedit-mod-7.2.15.jar"
