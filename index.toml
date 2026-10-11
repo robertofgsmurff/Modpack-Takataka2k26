@@ -513,6 +513,10 @@ file = "mods/charginggadgets-1.11.0.jar"
 hash = "4948bd0d92215e0e101a96028f72d8fb06c0dbb619b39160306d10655c669437"
 
 [[files]]
+file = "mods/chromastone-1.9_FIX_JAR.jar"
+hash = "a23aaf0f77b2e8f920674a9636c220c09ab1afdf32d9a096d28de2d6c2d1010a"
+
+[[files]]
 file = "mods/citadel-2.5.4-1.20.1.jar"
 hash = "0db506cfee39189d21cb54b20a6d4f4b54de281863bf209fadb386d434971266"
 
@@ -941,6 +945,10 @@ file = "mods/nyfsspiders-forge-1.20.1-2.1.1.jar"
 hash = "a82e51c76eb0333975bbe8f0cc65b7b1880c93ab826364751f7b0ebe71a74c85"
 
 [[files]]
+file = "mods/omni-extras(1.0.7.3).jar"
+hash = "601509471b70614cd9903dc3106a4db1db42012868e7e6486d24adc31b03edee"
+
+[[files]]
 file = "mods/omni_evo_1.0.3.jar"
 hash = "2f4d388b7edf844f624107257b72080e0896311d7db8e673367eef5604e8f753"
 
@@ -1127,6 +1135,10 @@ hash = "37713ee704a0779249b24955344f318b42efae9f607cdba2f003b4940b162b23"
 [[files]]
 file = "mods/the-conjurer-1.20.1-1.1.6.jar"
 hash = "13116af840e2c2a734d36cbd475bdbaf6ee3a26ff7653ea6641667a8ff937480"
+
+[[files]]
+file = "mods/the_five_project_fabric_1.1.0.jar"
+hash = "16e18b6f494247936a30038b1090388669ee3cba5b50bd979d4b62f97758bbb9"
 
 [[files]]
 file = "mods/torchmaster-20.1.6.jar"
