@@ -697,6 +697,10 @@ file = "mods/goldenfoods-merged-1.20.1-2.3.0.jar"
 hash = "b5c2f93c79d79d0ae350318a87d5e3444f1ac2b2a49aacb2c5684774df92d965"
 
 [[files]]
+file = "mods/gravecore-1.2.6-forge.jar"
+hash = "18484e9cb9363b9a90acf4d8f1c0dbd60797f289ec2601fbce13286caf441174"
+
+[[files]]
 file = "mods/gravestone-forge-1.20.1-1.0.15.jar"
 hash = "05c07235f41afa4fb7d8edd09b2d175b83d41aa7ca960d3bfe8dc16c040a6ba7"
 
@@ -775,6 +779,10 @@ hash = "e3bfa8cfe09629f918d2412cd0f5c52a8bd79f96e8461716c0fa58a1a18836a9"
 [[files]]
 file = "mods/loadingbackgrounds-forge-1.20.X-1.5.0.jar"
 hash = "4b4b927d1445e71735ba7f58f8acd517148b18e79b6038e6da71177fb5827a00"
+
+[[files]]
+file = "mods/lodestone-1.20.1-1.6.4.1.jar"
+hash = "e9f8b7bc70ba99d97005f2acee2061b149785fbae3c1e37db08c79197bcc7c2d"
 
 [[files]]
 file = "mods/macawsbridgesbop-1.20-1.2.jar"
@@ -957,6 +965,10 @@ file = "mods/omni_evo_aliens-1.0.1.jar"
 hash = "1dd9759c2b281aa02352abb0e391203c3cf7c622a58de6da85b94c1ffb4eb1ad"
 
 [[files]]
+file = "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
+hash = "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce"
+
+[[files]]
 file = "mods/palladium-4.5.5+1.20.1-forge.jar"
 hash = "960ba02fbbb9e396451e1d4255c40d6cebc1b524f5bfeccb0ebd8e730d9068df"
 
@@ -1015,6 +1027,10 @@ hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
 [[files]]
 file = "mods/right-click-harvest-3.2.3+1.20.1-forge.jar"
 hash = "c28cd7568f4a80ccb535f79a700a6c09a632b7574f1284f15dab4b339f7ae846"
+
+[[files]]
+file = "mods/saiyan-3.0.jar"
+hash = "c736737d9b5bf8771db201fbefc46d1130ef9f4631233c531db40f908f5c7ef2"
 
 [[files]]
 file = "mods/saturn-mc1.20.1-0.1.3.jar"
