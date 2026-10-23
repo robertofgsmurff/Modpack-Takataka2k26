@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABC",
+        "DEF",
+        "GHI"
+    ],
+    "key": {
+        "A": {
+            "item": "alienevo:upgrade_shards_red"
+        },
+        "B": {
+            "item": "alienevo:upgrade_shards_orange"
+        },
+        "C": {
+            "item": "alienevo:upgrade_shards_yellow"
+        },
+         "D": {
+            "item": "alienevo:upgrade_shards_green"
+        },
+         "E": {
+            "item": "minecraft:nether_star"
+        },
+         "F": {
+            "item": "alienevo:upgrade_shards_light_blue"
+        },
+         "G": {
+            "item": "alienevo:upgrade_shards_blue"
+        },
+         "H": {
+            "item": "alienevo:upgrade_shards_purple"
+        },
+         "I": {
+            "item": "alienevo:upgrade_shards_magenta"
+        }
+    
+    },
+"result": {
+    "item": "alienevo:sugilite_crystal",
+    "count": 1
+}
+}

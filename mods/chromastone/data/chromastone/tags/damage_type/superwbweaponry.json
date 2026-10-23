@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+   "superbwarfare:air_crash",
+   "superbwarfare:beast",
+   "superbwarfare:drone_hit",
+   "superbwarfare:grapeshot_hit",
+   "superbwarfare:gunfire",
+   "superbwarfare:gunfire_absolute",
+   "superbwarfare:gunfire_headshot",
+   "superbwarfare:gunfire_headshot_absolute",
+   "superbwarfare:lunge_mine",
+   "superbwarfare:mine"
+
+    ]
+}
+  

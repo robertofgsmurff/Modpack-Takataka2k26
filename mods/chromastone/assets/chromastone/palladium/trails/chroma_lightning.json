@@ -1,0 +1,15 @@
+
+  {
+    "type": "palladium:lightning",
+    "rainbow": true,
+    "glow_opacity": 1,
+    "core_opacity": 1,
+    "spacing": 1,
+    "lifetime": 3,
+    "amount": 8,
+    "bloom": 3,
+    "spread_x": 1,
+    "spread_y": 1,
+    "thickness": 0.04,
+    "normal_transparency": false
+  }

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ars_nouveau:portal",
+    "ars_nouveau:mage_block",
+    "ars_nouveau:falseweave",
+    "ars_nouveau:mirrorweave",
+    "ars_nouveau:ghostweave",
+    "ars_nouveau:sky_block"
+  ]
+}

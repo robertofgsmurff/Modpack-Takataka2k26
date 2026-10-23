@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "far:energy_block",
+    "far:energy_block_purple",
+    "far:energy_block_still"
+
+  ]
+}

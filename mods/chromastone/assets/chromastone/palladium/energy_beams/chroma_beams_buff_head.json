@@ -1,0 +1,27 @@
+[
+  {
+    "type": "palladium:lightning",
+    "segments": 4,
+    "frequency": 5,
+    "spread": 3,
+    "body_part": "head",
+    "rainbow": true,
+    "bloom": 7,
+    "size": [4, 4],
+    "rotation_speed": 30,
+    "offset": [0, 25, 0]
+  },
+    {
+    "type": "palladium:lightning",
+    "segments": 4,
+    "frequency": 5,
+    "spread": 3,
+    "body_part": "head",
+    "rainbow": true,
+    "bloom": 7,
+    "size": [4, 4],
+    "rotation_speed": 30,
+    "offset": [0, 25, 0]
+  }
+
+]

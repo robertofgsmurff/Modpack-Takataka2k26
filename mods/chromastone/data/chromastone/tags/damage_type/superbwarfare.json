@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+   "superbwarfare:air_crash",
+   "superbwarfare:custom_explosion",
+   "superbwarfare:repair_tool",
+   "superbwarfare:drone_hit",
+   "superbwarfare:grapeshot_hit",
+   "superbwarfare:gunfire",
+   "superbwarfare:gunfire_absolute",
+   "superbwarfare:gunfire_headshot",
+   "superbwarfare:gunfire_headshot_absolute",
+   "superbwarfare:lunge_mine",
+   "superbwarfare:mine",
+   "superbwarfare:projectile_explosion",
+   "superbwarfare:projectile_hit",
+   "superbwarfare:vehicle_explosion",
+   "superbwarfare:vehicle_strike"
+    
+
+    ]
+}
+  

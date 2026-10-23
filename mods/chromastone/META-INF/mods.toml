@@ -1,0 +1,35 @@
+modLoader = 'lowcodefml'
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="chromastone_addon"
+displayName="Chromastone Addon"
+version="1.8.1"
+logoFile = "logo.png"
+logoBlur = false
+description='''
+an Addon that reworks Chromastone to be usable
+'''
+
+[[dependencies.chromastone_addon]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.chromastone_addon]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.chromastone_addon]]
+modId = "alienevo"
+mandatory = true
+versionRange = "[1.1.1,)"
+ordering = "AFTER"
+side = "BOTH"

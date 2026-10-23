@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+
+   "foolish:lightburn_damage",
+   "foolish:liquid_radium_damage",
+   "foolish:meteor_damage",
+   "foolish:phantasmal_damage",
+   "foolish:starburst",
+   "foolish:starsplitter_damage",
+   "foolish:weight_of_time_damage",
+   "foolish:soul_channel_damage"
+
+    ]
+}
+  

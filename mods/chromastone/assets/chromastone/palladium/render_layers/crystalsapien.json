@@ -1,0 +1,1055 @@
+{
+  "type": "palladium:compound",
+  "layers": [
+    {
+      "type": "geckolib:default",
+      "model": "chromastone:geo/crystalsapien.geo.json",
+      "animation_file": "chromastone:animations/crystalsapien.animation.json",
+      "animation_controller": [
+        {
+          "name": "block_anim",
+          "transition_tick_time": 0,
+          "animation": "animation.chromastone.arms_off"
+        },
+        {
+          "name": "explosion",
+          "transition_tick_time": 0,
+          "triggers": {
+            "explosion_start": "animation.chromastone.explode_start",
+            "explosion_end": "animation.chromastone.explode_end"
+          }
+        }
+      ],
+      "texture": {
+        "base": "chromastone:textures/models/crystalsapien/crystalsapien_skin_#UNIFORM.png",
+        "bones": {
+          "head": "armorHead",
+          "body": "armorBody",
+          "right_arm": "armorRightArm",
+          "left_arm": "armorLeftArm",
+          "right_leg": "armorRightLeg",
+          "left_leg": "armorLeftLeg"
+        },
+        "transformers": [
+          {
+            "type": "palladium:overlay",
+            "overlay": "chromastone:textures/models/crystalsapien/crystalsapien_skin_#UNIFORM.png"
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_1",
+            "filter": "#47466c",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_2",
+            "filter": "#383254",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_3",
+            "filter": "#2e2643",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_4",
+            "filter": "#221a31",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_5",
+            "filter": "#1a1224",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_6",
+            "filter": "#171020",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_7",
+            "filter": "#140d1b",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_8",
+            "filter": "#130c19",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_9",
+            "filter": "#0f0913",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_1",
+            "filter": "#fa7bca",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_2",
+            "filter": "#eb59b4",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_3",
+            "filter": "#d8399c",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_4",
+            "filter": "#c21580",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_5",
+            "filter": "#a20b54",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_6",
+            "filter": "#8d0841",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_PROTO_P2_7",
+            "filter": "#78052d",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_1",
+            "filter": "#47466c",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_2",
+            "filter": "#383254",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_3",
+            "filter": "#2e2643",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_4",
+            "filter": "#221a31",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_5",
+            "filter": "#1a1224",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_6",
+            "filter": "#171020",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_7",
+            "filter": "#140d1b",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_8",
+            "filter": "#130c19",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_9",
+            "filter": "#0f0913",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_1",
+            "filter": "#fa7bca",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_2",
+            "filter": "#eb59b4",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_3",
+            "filter": "#d8399c",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_4",
+            "filter": "#c21580",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_5",
+            "filter": "#a20b54",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_6",
+            "filter": "#8d0841",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_10K_P2_7",
+            "filter": "#78052d",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_1",
+            "filter": "#47466c",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_2",
+            "filter": "#383254",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_3",
+            "filter": "#2e2643",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_4",
+            "filter": "#221a31",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_5",
+            "filter": "#1a1224",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_6",
+            "filter": "#171020",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_7",
+            "filter": "#140d1b",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_8",
+            "filter": "#130c19",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_9",
+            "filter": "#0f0913",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_1",
+            "filter": "#fa7bca",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_2",
+            "filter": "#eb59b4",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_3",
+            "filter": "#d8399c",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_4",
+            "filter": "#c21580",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_5",
+            "filter": "#a20b54",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_6",
+            "filter": "#8d0841",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SKIN_DEFAULT_P2_7",
+            "filter": "#78052d",
+            "ignore_blank": true
+          }
+        ],
+        "variables": {
+          "UNIFORM": {
+            "type": "palladium:string_property",
+            "property": "uniform"
+          },
+          "SKIN_PROTO_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_1"
+          },
+          "SKIN_PROTO_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_2"
+          },
+          "SKIN_PROTO_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_3"
+          },
+          "SKIN_PROTO_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_4"
+          },
+          "SKIN_PROTO_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_5"
+          },
+          "SKIN_PROTO_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_6"
+          },
+          "SKIN_PROTO_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_7"
+          },
+          "SKIN_PROTO_8": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_8"
+          },
+          "SKIN_PROTO_9": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_1_color_9"
+          },
+          "SKIN_PROTO_P2_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_1"
+          },
+          "SKIN_PROTO_P2_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_2"
+          },
+          "SKIN_PROTO_P2_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_3"
+          },
+          "SKIN_PROTO_P2_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_4"
+          },
+          "SKIN_PROTO_P2_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_5"
+          },
+          "SKIN_PROTO_P2_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_6"
+          },
+          "SKIN_PROTO_P2_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_skincolor_palette_2_color_7"
+          },
+          "SKIN_OV_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_1"
+          },
+          "SKIN_OV_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_2"
+          },
+          "SKIN_OV_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_3"
+          },
+          "SKIN_OV_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_4"
+          },
+          "SKIN_OV_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_5"
+          },
+          "SKIN_OV_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_6"
+          },
+          "SKIN_OV_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_7"
+          },
+          "SKIN_OV_8": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_8"
+          },
+          "SKIN_OV_9": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_1_color_9"
+          },
+          "SKIN_OV_P2_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_1"
+          },
+          "SKIN_OV_P2_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_2"
+          },
+          "SKIN_OV_P2_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_3"
+          },
+          "SKIN_OV_P2_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_4"
+          },
+          "SKIN_OV_P2_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_5"
+          },
+          "SKIN_OV_P2_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_6"
+          },
+          "SKIN_OV_P2_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_ov_skincolor_palette_2_color_7"
+          },
+
+
+
+
+          "SKIN_10K_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_1"
+          },
+          "SKIN_10K_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_2"
+          },
+          "SKIN_10K_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_3"
+          },
+          "SKIN_10K_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_4"
+          },
+          "SKIN_10K_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_5"
+          },
+          "SKIN_10K_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_6"
+          },
+          "SKIN_10K_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_7"
+          },
+          "SKIN_10K_8": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_8"
+          },
+          "SKIN_10K_9": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_1_color_9"
+          },
+          "SKIN_10K_P2_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_1"
+          },
+          "SKIN_10K_P2_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_2"
+          },
+          "SKIN_10K_P2_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_3"
+          },
+          "SKIN_10K_P2_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_4"
+          },
+          "SKIN_10K_P2_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_5"
+          },
+          "SKIN_10K_P2_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_6"
+          },
+          "SKIN_10K_P2_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_10k_skincolor_palette_2_color_7"
+          },
+          "SKIN_DEFAULT_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_1"
+          },
+          "SKIN_DEFAULT_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_2"
+          },
+          "SKIN_DEFAULT_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_3"
+          },
+          "SKIN_DEFAULT_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_4"
+          },
+          "SKIN_DEFAULT_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_5"
+          },
+          "SKIN_DEFAULT_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_6"
+          },
+          "SKIN_DEFAULT_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_7"
+          },
+          "SKIN_DEFAULT_8": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_8"
+          },
+          "SKIN_DEFAULT_9": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_1_color_9"
+          },
+          "SKIN_DEFAULT_P2_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_1"
+          },
+          "SKIN_DEFAULT_P2_2": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_2"
+          },
+          "SKIN_DEFAULT_P2_3": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_3"
+          },
+          "SKIN_DEFAULT_P2_4": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_4"
+          },
+          "SKIN_DEFAULT_P2_5": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_5"
+          },
+          "SKIN_DEFAULT_P2_6": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_6"
+          },
+          "SKIN_DEFAULT_P2_7": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_default_skincolor_palette_2_color_7"
+          }
+        }
+      }
+    },
+    {
+      "type": "geckolib:default",
+      "model": {
+        "base": "chromastone:geo/crystalsapien.geo.json",
+        "variables": {
+          "UNIFORM": {
+            "type": "palladium:string_property",
+            "property": "uniform"
+          }
+        }
+      },
+      "animation_file": "chromastone:animations/crystalsapien.animation.json",
+      "animation_controller": [
+        {
+          "name": "block_anim",
+          "transition_tick_time": 0,
+          "animation": "animation.chromastone.arms_off"
+        },
+        {
+          "name": "explosion",
+          "transition_tick_time": 0,
+          "triggers": {
+            "explosion_start": "animation.chromastone.explode_start",
+            "explosion_end": "animation.chromastone.explode_end"
+          }
+        }
+      ],
+      "texture": {
+        "base": "chromastone:textures/models/crystalsapien/crystalsapien_uniform_#UNIFORM.png",
+        "bones": {
+          "head": "armorHead",
+          "body": "armorBody",
+          "right_arm": "armorRightArm",
+          "left_arm": "armorLeftArm",
+          "right_leg": "armorRightLeg",
+          "left_leg": "armorLeftLeg"
+        },
+        "transformers": [
+          {
+            "type": "palladium:color",
+            "color": "##SECONDARY_1",
+            "filter": "#ffffff",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SECONDARY_2",
+            "filter": "#edf4f4",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SECONDARY_3",
+            "filter": "#d6dfe1",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SECONDARY_4",
+            "filter": "#bdc7cf",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##SECONDARY_5",
+            "filter": "#97a2b0",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##PRIMARY_1",
+            "filter": "#3a3333",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##PRIMARY_2",
+            "filter": "#2c2828",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##PRIMARY_3",
+            "filter": "#232020",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##PRIMARY_4",
+            "filter": "#171515",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##PRIMARY_5",
+            "filter": "#000000",
+            "ignore_blank": true
+          }
+        ],
+        "variables": {
+          "UNIFORM": {
+            "type": "palladium:string_property",
+            "property": "uniform"
+          },
+          "SECONDARY_1": {
+            "type": "palladium:string_property",
+            "property": "uniform_secondary_color_1"
+          },
+          "SECONDARY_2": {
+            "type": "palladium:string_property",
+            "property": "uniform_secondary_color_2"
+          },
+          "SECONDARY_3": {
+            "type": "palladium:string_property",
+            "property": "uniform_secondary_color_3"
+          },
+          "SECONDARY_4": {
+            "type": "palladium:string_property",
+            "property": "uniform_secondary_color_4"
+          },
+          "SECONDARY_5": {
+            "type": "palladium:string_property",
+            "property": "uniform_secondary_color_5"
+          },
+          "PRIMARY_1": {
+            "type": "palladium:string_property",
+            "property": "uniform_primary_color_1"
+          },
+          "PRIMARY_2": {
+            "type": "palladium:string_property",
+            "property": "uniform_primary_color_2"
+          },
+          "PRIMARY_3": {
+            "type": "palladium:string_property",
+            "property": "uniform_primary_color_3"
+          },
+          "PRIMARY_4": {
+            "type": "palladium:string_property",
+            "property": "uniform_primary_color_4"
+          },
+          "PRIMARY_5": {
+            "type": "palladium:string_property",
+            "property": "uniform_primary_color_5"
+          }
+        }
+      }
+    },
+    {
+      "type": "geckolib:default",
+      "model": "chromastone:geo/crystalsapien.fake.geo.json",
+      "animation_file": "chromastone:animations/crystalsapien.animation.json",
+      "animation_controller": [
+        {
+          "name": "block_anim",
+          "transition_tick_time": 0,
+          "animation": "animation.chromastone.arms_off"
+        }
+      ],
+      "texture": {
+        "variables": {
+          "I": {
+            "type": "palladium:entity_ticks",
+            "divide": 2,
+            "modulo": 9
+          }
+        },
+        "base": "chromastone:textures/models/crystalsapien/chromastone_color_#I.png"
+      },
+      "conditions": [
+        {
+          "type": "palladium:ability_integer_property",
+          "power": "chromastone:crystalsapien",
+          "ability": "chroma_barrage_charge",
+          "property": "value",
+          "min": 1,
+          "max": 30
+        }
+      ]
+    },
+    {
+  "type": "palladium:compound",
+  "layers": [
+    {
+      "type": "geckolib:default",
+      "model": "chromastone:geo/crystalsapien.fake.geo.json",
+      "texture": {
+        "variables": {
+          "I": {
+            "type": "palladium:entity_ticks",
+            "divide": 2,
+            "modulo": 9
+          }
+        },
+        "base": "chromastone:textures/models/crystalsapien/chromastone_color_#I.png"
+      },
+      "conditions": [
+        {
+          "type": "palladium:objective_score",
+          "objective": "afomni.ChromaEnergy",
+          "min_score": 10000
+        }
+      ]
+    }
+  ]
+},
+    {
+      "type": "geckolib:default",
+      "render_type": "glow",
+      "model": {
+        "base": "chromastone:geo/crystalsapien.geo.json",
+        "variables": {
+          "UNIFORM": {
+            "type": "palladium:string_property",
+            "property": "uniform"
+          }
+        }
+      },
+      "animation_file": "chromastone:animations/crystalsapien.animation.json",
+      "animation_controller": [
+        {
+          "name": "block_anim",
+          "transition_tick_time": 0,
+          "animation": "animation.chromastone.arms_off"
+        },
+        {
+          "name": "explosion",
+          "transition_tick_time": 0,
+          "triggers": {
+            "explosion_start": "animation.chromastone.explode_start",
+            "explosion_end": "animation.chromastone.explode_end"
+          }
+        }
+      ],
+      "texture": {
+        "base": "chromastone:textures/models/crystalsapien/crystalsapien_glow_#UNIFORM.png",
+        "bones": {
+          "head": "armorHead",
+          "body": "armorBody",
+          "right_arm": "armorRightArm",
+          "left_arm": "armorLeftArm",
+          "right_leg": "armorRightLeg",
+          "left_leg": "armorLeftLeg"
+        },
+        "transformers": [
+          {
+            "type": "palladium:color",
+            "color": "##GLOW_PROTO_1",
+            "filter": "#b8ff00",
+            "ignore_blank": true
+          }
+        ],
+        "variables": {
+          "UNIFORM": {
+            "type": "palladium:string_property",
+            "property": "uniform"
+          },
+          "GLOW_PROTO_1": {
+            "type": "palladium:string_property",
+            "property": "crystalsapien_prototype_glowcolor_1_color_1"
+          }
+        }
+      }
+    },
+    {
+      "type": "geckolib:default",
+      "model": {
+        "base": "chromastone:geo/badges/badge_#BADGE_crystalsapien.geo.json",
+        "variables": {
+          "BADGE": {
+            "type": "palladium:string_property",
+            "property": "badge"
+          }
+        }
+      },
+      "animation_file": "chromastone:animations/crystalsapien.animation.json",
+      "animation_controller": [
+        {
+          "name": "block_anim",
+          "transition_tick_time": 0,
+          "animation": "animation.chromastone.arms_off"
+        },
+        {
+          "name": "explosion",
+          "transition_tick_time": 0,
+          "triggers": {
+            "explosion_start": "animation.chromastone.explode_start",
+            "explosion_end": "animation.chromastone.explode_end"
+          }
+        }
+      ],
+      "texture": {
+        "base": "alienevo:textures/models/badge/badge_#BADGE.png",
+        "transformers": [
+          {
+            "type": "palladium:overlay",
+            "overlay": "alienevo:textures/models/badge/#BADGE/core_side/core_side_#Z.png"
+          },
+          {
+            "type": "palladium:overlay",
+            "overlay": "alienevo:textures/models/badge/#BADGE/core_top/core_top_#Y.png"
+          },
+          {
+            "type": "palladium:overlay",
+            "overlay": "alienevo:textures/models/badge/#BADGE/dial_inner/dial_inner_#X.png"
+          },
+          {
+            "type": "palladium:overlay",
+            "overlay": "alienevo:textures/models/badge/#BADGE/dial_outer/dial_outer_#W.png"
+          }
+        ],
+        "variables": {
+          "BADGE": {
+            "type": "palladium:string_property",
+            "property": "badge"
+          },
+          "Z": {
+            "type": "palladium:objective_score",
+            "objective": "AlienEvo.CoreSide"
+          },
+          "Y": {
+            "type": "palladium:objective_score",
+            "objective": "AlienEvo.CoreTop"
+          },
+          "X": {
+            "type": "palladium:objective_score",
+            "objective": "AlienEvo.DialInner"
+          },
+          "W": {
+            "type": "palladium:objective_score",
+            "objective": "AlienEvo.DialOuter"
+          }
+        }
+      }
+    },
+    {
+      "type": "geckolib:default",
+      "model": {
+        "base": "chromastone:geo/badges/badge_#BADGE_crystalsapien.geo.json",
+        "variables": {
+          "BADGE": {
+            "type": "palladium:string_property",
+            "property": "badge"
+          }
+        }
+      },
+      "animation_file": "chromastone:animations/crystalsapien.animation.json",
+      "animation_controller": [
+        {
+          "name": "block_anim",
+          "transition_tick_time": 0,
+          "animation": "animation.chromastone.arms_off"
+        },
+        {
+          "name": "explosion",
+          "transition_tick_time": 0,
+          "triggers": {
+            "explosion_start": "animation.chromastone.explode_start",
+            "explosion_end": "animation.chromastone.explode_end"
+          }
+        }
+      ],
+      "render_type": "glow",
+      "texture": {
+        "base": "alienevo:textures/models/badge/badge_glow_#WATCHSTATE_#BADGE.png",
+        "transformers": [
+          {
+            "type": "palladium:color",
+            "color": "##GLOW_1",
+            "filter": "#ffffff",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##GLOW_2",
+            "filter": "#eaeaea",
+            "ignore_blank": true
+          },
+          {
+            "type": "palladium:color",
+            "color": "##GLOW_3",
+            "filter": "#cfcfdd",
+            "ignore_blank": true
+          }
+        ],
+        "variables": {
+          "WATCHSTATE": {
+            "type": "palladium:string_property",
+            "property": "watch_state"
+          },
+          "BADGE": {
+            "type": "palladium:string_property",
+            "property": "badge"
+          },
+          "GLOW_1": {
+            "type": "palladium:string_property",
+            "property": "uniform_glow_color_1"
+          },
+          "GLOW_2": {
+            "type": "palladium:string_property",
+            "property": "uniform_glow_color_2"
+          },
+          "GLOW_3": {
+            "type": "palladium:string_property",
+            "property": "uniform_glow_color_3"
+          }
+        }
+      }
+    },
+    {
+      "type": "geckolib:default",
+      "render_type": "glow",
+      "model": {
+        "base": "chromastone:geo/badges/badge_#BADGE_crystalsapien.geo.json",
+        "variables": {
+          "BADGE": {
+            "type": "palladium:string_property",
+            "property": "badge"
+          }
+        }
+      },
+      "texture": {
+        "variables": {
+          "BADGE": {
+            "type": "palladium:string_property",
+            "property": "badge"
+          }
+        },
+        "base": "alienevo:textures/models/badge/badge_red_#BADGE.png"
+      },
+      "conditions": [
+        {
+          "type": "alienevo:has_timeout_bubble",
+          "value": true
+        },
+        {
+          "type": "palladium:or",
+          "conditions": [
+            {
+              "type": "palladium:objective_score",
+              "objective": "AlienEvo.Timer",
+              "min_score": 5940,
+              "max_score": 5950
+            },
+            {
+              "type": "palladium:objective_score",
+              "objective": "AlienEvo.Timer",
+              "min_score": 5960,
+              "max_score": 5970
+            },
+            {
+              "type": "palladium:objective_score",
+              "objective": "AlienEvo.Timer",
+              "min_score": 5980,
+              "max_score": 6000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

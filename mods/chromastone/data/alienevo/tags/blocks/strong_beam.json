@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:deepslate",
+    "#minecraft:mineable/axe",
+    "#minecraft:mineable/pickaxe",
+    "alienevo:crystal_block",
+    "alienevo:smooth_crystal_block",
+    "alienevo:permanent_taydenite_block",
+    "alienevo:permanent_smooth_taydenite_block"
+
+  ]
+}

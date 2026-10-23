@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+   "create:crush",
+   "create:mechanical_drill",
+   "create:mechanical_roller",
+   "create:mechanical_saw",
+   "create:potato_cannon",
+   "create:run_over"
+
+    ]
+}
+  

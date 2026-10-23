@@ -1,0 +1,2 @@
+execute at @s run damage @e[distance=..4,limit=1,sort=nearest,type=!minecraft:marker,type=!minecraft:item,type=!palladium:custom_projectile] 50 alienevo:chroma_beam
+execute as @e[distance=..4, type=!palladium:custom_projectile, type=item] run data merge entity @s {Motion:[0.0,1.8,0.0]}

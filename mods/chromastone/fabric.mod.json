@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "authors": [],
+    "environment": "*",
+    "name": "Chromastone Addon",
+    "id": "chromastone_addon",
+    "version": "1.8.1",
+    "description": "an Addon that reworks Chromastone to be usable",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

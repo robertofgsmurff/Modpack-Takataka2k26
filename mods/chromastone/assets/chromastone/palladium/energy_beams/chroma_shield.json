@@ -1,0 +1,15 @@
+[
+    {
+      "type": "palladium:laser",
+      "body_part": "head",
+      "rainbow": 0.4,
+      "glow_opacity": 0.1,
+      "core_opacity": 0,
+      "rotation": 0,
+      "normal_transparency": false,
+      "bloom": 10,
+      "size": [35, 35],
+      "rotation_speed": 0,
+      "offset": [0, -5, 15]
+    }
+  ]

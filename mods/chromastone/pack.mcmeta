@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "id": "chromastone_addon",
+    "description": "an Addon that reworks Chromastone to be usable",
+    "pack_format": 15,
+    "version": "1.8.1"
+  },
+  "dependencies": {
+    "common": {
+    },
+    "fabric": {
+    },
+    "forge": {
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "alienevo.alien_desc.176": "The <Crystalsapien> originates from Petropia, the only one of his kind. Capable of absorbing all types of energy and manipulating it.",
+  "species.alienevo_aliens.176": "Crystalsapien",
+  "desc.alienevo_aliens.176": "",
+  "unlock.alienevo_aliens.176.skillpoint": "§aCrystalsapien Skill Point",
+  "ability.alienevo_aliens.176.hands_aim": "Dynakinesis: Energy Beams",
+  "desc.alienevo_aliens.176.hands_aim": "Shoot energy beams from your hands, the first beam encases the target, the second is a typical beam, the third beam does the most damage and knocks mobs away.",
+  "ability.alienevo_aliens.176.chroma_blast_charge": "Dynakinesis: Energy Blast",
+  "desc.alienevo_aliens.176.chroma_blast_charge": "Charge up a devestating explosive blast , takes around 3-4 seconds, needs to be used at 80% energy, while using the ability you can refill your bar with Ability 4 via redstone, nether stars...",
+  "ability.alienevo_aliens.176.flight": "Flight",
+  "desc.alienevo_aliens.176.flight": "Gain the ability to fly, does not drain energy.",
+  "ability.alienevo_aliens.176.block_abil": "Dynakinesis: Energy shield",
+  "desc.alienevo_aliens.176.block_abil": "Create a energy shield around yoursef, making you immune to all types of damage, and knocking back entities.",
+  "ability.alienevo_aliens.176.chroma_barrage_charge": "Dynakinesis: Energy Barrage",
+  "desc.alienevo_aliens.176.chroma_barrage_charge": "Quickly charge up,  shooting 7 lasers in front of you, with them spreading apart, acting like a shotgun.",
+  "ability.alienevo_aliens.176.chroma_vanilla_absorb": "Vanilla absorption",
+  "desc.alienevo_aliens.176.chroma_vanilla_absorb": "Passively gain energy when near vanilla entities that could emit energy. Aswell as consuming redstone, redstone blocks, redstone torches, nether stars, end crystals, other modded items in your main hand with Ability 4.",
+
+  "item.alienevo.sugilite_crystal": "Sugilite crystal",
+  "itemGroup.alienevo.chromastonepack": "Crystalsapien",
+
+  "death.attack.chromastone_absorbing": " AAAAAAAAAAA was absorbed",
+"death.attack.chromastone_absorbing.player": " AAAAAAAAAAA was absorbed",
+  "death.attack.energy_limit": " Was overwhelmed",
+"death.attack.energy_limit.player": " Was overwhelmed"
+
+
+
+}

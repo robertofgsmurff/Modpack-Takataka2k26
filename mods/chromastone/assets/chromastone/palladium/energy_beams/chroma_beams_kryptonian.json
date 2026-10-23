@@ -1,0 +1,15 @@
+[
+  {
+    "type": "palladium:lightning",
+    "segments": 4,
+    "frequency": 1,
+    "spread": 3,
+    "body_part": "right_arm",
+    "glow_color": "#58fa0f",
+    "core_color": "#58fa0f",
+    "bloom": 6,
+    "size": [10, 10],
+    "rotation_speed": 70,
+    "offset": [-2, -16, -8]
+  }
+]

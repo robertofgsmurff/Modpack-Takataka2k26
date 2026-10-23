@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+   "terramity:energy",
+   "terramity:electric_shock",
+   "terramity:shadowflame_damage",
+   "terramity:divergent",
+   "terramity:blood_boiling", 
+   "terramity:black_hole_damage"    
+
+    
+
+    ]
+}
+  

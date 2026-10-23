@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "cursedfate:unlimited_void_block",
+    "cursedfate:celestial_opera_domain_block",
+    "cursedfate:coffin_of_the_iron_mountian_2_block",
+    "cursedfate:coffin_of_the_iron_mountian_3_block",
+    "cursedfate:coffin_of_the_iron_mountian_block",
+    "cursedfate:domain_clash_block",
+    "cursedfate:idle_death_gamble_block",
+    "cursedfate:mutual_love_domain_block",
+    "cursedfate:mutual_love_domain_wall",
+    "cursedfate:soul_shrine_domain_bricks",
+    "cursedfate:soul_shrine_domain_black_bricks",
+    "cursedfate:veil_block",
+    "cursedfate:domain_expansion_block",
+    "cursedfate:domain_expansion_air"
+
+  ]
+}

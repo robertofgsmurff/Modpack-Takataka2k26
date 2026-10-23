@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"alienevo:chroma_beam",
+		"alienevo:chromastone_explosion",
+		"alienevo:chromastone_absorbing"
+	]
+}

@@ -1,0 +1,26 @@
+{
+"sonorosian_scream": {
+	"category": "player",
+	"sounds": ["afomni:sonorosian"]
+},
+"jet_start": {
+	"category": "player",
+	"sounds": ["afomni:jet_start"]
+},
+"sonic_boom": {
+	"category": "player",
+	"sounds": ["afomni:sonic_boom"]
+},
+"jet_blast": {
+	"category": "player",
+	"sounds": ["afomni:jet_blast"]
+},
+"jet_shoot": {
+	"category": "player",
+	"sounds": ["afomni:jet_shoot"]
+},
+"heat_vision_loop": {
+	"category": "player",
+	"sounds": ["afomni:heat_vision_loop"]
+}
+}

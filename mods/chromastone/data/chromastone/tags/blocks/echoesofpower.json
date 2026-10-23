@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "sgoc:domain",
+    "sgoc:diff_magma_block"
+  ]
+}

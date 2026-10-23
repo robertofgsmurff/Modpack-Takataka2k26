@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+
+   "mekanism_weaponry:plasma",
+   "mekanism_weaponry:electricity",
+   "mekanism_weaponry:rod"
+
+    ]
+}
+  

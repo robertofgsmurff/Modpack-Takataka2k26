@@ -1,0 +1,97 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"echo.scream": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.375,
+			"bones": {
+				"eyes": {
+					"position": {
+						"vector": [0, 3, 0]
+					}
+				},
+				"scream": {
+					"position": {
+						"vector": [0, 0, -0.15]
+					}
+				},
+				"armorBody": {
+					"rotation": {
+						"vector": [7.5, 0, 0]
+					}
+				},
+				"arm": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [-27.5, 0, 0]
+					}
+				},
+				"smile": {
+					"position": {
+						"vector": [0, 0, 1]
+					}
+				},
+				"smile_outline": {
+					"position": {
+						"vector": [0, 0, 1]
+					}
+				}
+			}
+		},
+		"echo.scream.off": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.375,
+			"bones": {
+				"eyes": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"scream": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"smile": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"smile_outline": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

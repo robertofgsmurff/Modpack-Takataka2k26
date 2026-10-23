@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+  "minecraft:cactus",
+  "minecraft:generic_kill",
+  "minecraft:wither",
+  "minecraft:sweet_berry_bush",
+  "minecraft:sting",
+  "minecraft:dragon_breath",
+  "minecraft:indirect_magic",
+  "minecraft:thorns",
+  "minecraft:starve",
+  "minecraft:falling_anvil",
+  "minecraft:falling_stalactite",
+  "minecraft:falling_block",
+  "minecraft:fireworks"
+
+    ]
+}
+  

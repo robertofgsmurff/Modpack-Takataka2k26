@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "nvlforcefields:nvl_block_fffield",
+    "nvlforcefields:nvl_block_ffdfield"
+  ]
+}

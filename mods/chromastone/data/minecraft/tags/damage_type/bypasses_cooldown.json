@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"alienevo:chromastone_explosion",
+		"alienevo:chromastone_shotgun",
+		"alienevo:chromastone_absorbing",
+		"chromastone:energy_limit",
+		"chromastone:max_blast"
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "palladium:compound",
+  "layers": [
+    {
+      "type": "geckolib:default",
+      "model": "chromastone:geo/crystalsapien.fake.geo.json",
+      "texture": {
+        "variables": {
+          "I": {
+            "type": "palladium:entity_ticks",
+            "divide": 2,
+            "modulo": 9
+          }
+        },
+        "base": "chromastone:textures/models/crystalsapien/chromastone_color_#I.png"
+      },
+      "conditions": [
+        {
+          "type": "palladium:objective_score",
+          "objective": "afomni.ChromaEnergy",
+          "min_score": 10000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+    {
+      "type": "palladium:laser",
+      "body_part": "right_arm",
+      "rainbow": true,
+      "bloom": 4,
+      "size": [2, 2],
+      "rotation_speed": 20,
+      "offset": { 
+      "first_person": [-2, -16, -8],
+      "third_person": [-3, -16, -7.8]}
+    },
+    {
+      "body_part": "left_arm",
+      "rainbow": true,
+      "bloom": 4,
+      "size": [2, 2],
+      "rotation_speed": 20,
+      "offset": { 
+        "first_person": [2, -16, -8],
+        "third_person": [3, -16, -7.8]}
+      
+    
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "variables": {
+    "X": {
+      "type": "palladium:objective_score",
+      "objective": "Crystalsapien.BeamIntensity"
+    }
+  },
+  "base": "chromastone:textures/hud/crystalsapien_level_#X.png"
+}
