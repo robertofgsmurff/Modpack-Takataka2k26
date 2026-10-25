@@ -517,10 +517,6 @@ file = "mods/botarium-forge-1.20.1-2.3.3.jar"
 hash = "1d1a5181dd8f094b9697e814d16ed289d70c5a7404e1341efe08d96a4b7b0ce7"
 
 [[files]]
-file = "mods/byts-full-system-release-3.0.jar"
-hash = "094f770016a49147e1853c5aab977b99e25f2265387466943e4a97cab0004987"
-
-[[files]]
 file = "mods/camera-1.20.1-1.0.6.jar"
 hash = "40c3dc45876f09f547e01bac801746f6ac0a4be9573dafc3a8ccdc33e3a8a4a2"
 
