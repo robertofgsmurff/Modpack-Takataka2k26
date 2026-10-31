@@ -97,10 +97,6 @@ file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
 hash = "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"
 
 [[files]]
-file = "mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
-hash = "46cdac6c72a3788f3ffbd2d6ef0420aad3688a74079c3dbdd84e3e300441c3ca"
-
-[[files]]
 file = "mods/CrabClaws-MC-1.20.1.jar"
 hash = "b38ebe84e9c2ede760e6183f295ede49e5abcaa8a09278faaf58311cd8cfe6d4"
 
@@ -2091,10 +2087,6 @@ hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
 [[files]]
 file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
 hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
-
-[[files]]
-file = "mods/cosmicadditions-0.0.2-forge-1.20.1.jar"
-hash = "c1d8973c4b12a7bb42d8997a6a2930e301548d3bf66a4f5f10ec2b754861260a"
 
 [[files]]
 file = "mods/cosmos-library-1.20.1-10.6.0.0-universal.jar"
